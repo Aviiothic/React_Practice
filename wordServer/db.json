@@ -1,0 +1,120 @@
+{
+    "words" : [
+        {
+            "wordValue": "APPLE",
+            "wordHint": "A common fruit"
+        },
+        {
+            "wordValue": "DOG",
+            "wordHint": "A loyal pet"
+        },
+        {
+            "wordValue": "PARIS",
+            "wordHint": "Capital of France"
+        },
+        {
+            "wordValue": "COMPUTER",
+            "wordHint": "An electronic device"
+        },
+        {
+            "wordValue": "OCEAN",
+            "wordHint": "Large body of saltwater"
+        },
+        {
+            "wordValue": "MOUNTAIN",
+            "wordHint": "Large natural elevation of the earth's surface"
+        },
+        {
+            "wordValue": "GUITAR",
+            "wordHint": "A musical instrument"
+        },
+        {
+            "wordValue": "BOOK",
+            "wordHint": "Something you read"
+        },
+        {
+            "wordValue": "SUNFLOWER",
+            "wordHint": "A tall yellow flower"
+        },
+        {
+            "wordValue": "RAINBOW",
+            "wordHint": "A colorful arc in the sky"
+        },
+        {
+            "wordValue": "ELEPHANT",
+            "wordHint": "The largest land animal"
+        },
+        {
+            "wordValue": "PIZZA",
+            "wordHint": "A popular Italian food"
+        },
+        {
+            "wordValue": "BICYCLE",
+            "wordHint": "Two-wheeled vehicle"
+        },
+        {
+            "wordValue": "TELESCOPE",
+            "wordHint": "Used to view distant objects"
+        },
+        {
+            "wordValue": "KEYBOARD",
+            "wordHint": "Part of a computer for typing"
+        },
+        {
+            "wordValue": "CLOUD",
+            "wordHint": "A visible mass of water droplets"
+        },
+        {
+            "wordValue": "BUTTERFLY",
+            "wordHint": "An insect with colorful wings"
+        },
+        {
+            "wordValue": "VOLCANO",
+            "wordHint": "A mountain that erupts"
+        },
+        {
+            "wordValue": "DIAMOND",
+            "wordHint": "A precious stone"
+        },
+        {
+            "wordValue": "CAMERA",
+            "wordHint": "Used to take pictures"
+        },
+        {
+            "wordValue": "JUNGLE",
+            "wordHint": "A dense forest"
+        },
+        {
+            "wordValue": "PIANO",
+            "wordHint": "A musical instrument with keys"
+        },
+        {
+            "wordValue": "CACTUS",
+            "wordHint": "A plant found in the desert"
+        },
+        {
+            "wordValue": "UMBRELLA",
+            "wordHint": "Used for protection from rain"
+        },
+        {
+            "wordValue": "ZEBRA",
+            "wordHint": "An African animal with stripes"
+        },
+        {
+            "wordValue": "SPAGHETTI",
+            "wordHint": "A type of pasta"
+        },
+        {
+            "wordValue": "HARBOR",
+            "wordHint": "A place where ships are docked"
+        },
+        {
+            "wordValue": "GLOBE",
+            "wordHint": "A spherical model of the Earth"
+        },
+        {
+            "wordValue": "CHIMNEY",
+            "wordHint": "Part of a house for smoke to escape"
+        }
+    ]
+}

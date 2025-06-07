@@ -1,0 +1,19 @@
+{
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 20,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    //"liveServer.settings.donotShowInfoMsg": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "editor.codeActionsOnSave": {},
+
+    // Added terminal font size setting
+    "terminal.integrated.fontSize": 15,
+
+    // Disable Sticky Scroll for editor and terminal
+    "editor.stickyScroll.enabled": false,
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true
+}

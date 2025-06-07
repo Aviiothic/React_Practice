@@ -12,10 +12,9 @@ the imported variable name should be capitalized to match React component naming
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<TextInputFormContainer />} />
+      <Route path="/" element={<Home />} />
       <Route path="/start" element={<StartGame />} />
       <Route path="/play" element={<PlayGame />} />
-      <Route path="/home" element={<Home />} />
     </Routes>
   );
 }

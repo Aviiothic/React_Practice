@@ -3,8 +3,8 @@ import TextInputFormContainer from "../components/textInputForm/TextInputFormCon
 function StartGame() {
   return (
     <div>
-      <h1>Start Game</h1>
-      <Link to='/play' className="text-white bg-blue-700"> Play Game</Link>
+      <h1>Welcome To Hangman The brainteasing word Game</h1>
+      {/*<Link to='/play' className="text-white bg-blue-700"> Play Game</Link>*/}
       {/*Link react router dom ka internal component hai iska fayda ye hai ki href se page refresh 
       ho jayega lekin agar link to use krenge to refresh nahi hoga aur SPA ka proper feel aayega
       aur sara state bhi */} 

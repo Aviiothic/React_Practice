@@ -48,7 +48,7 @@ function PlayGame() {
 
   return (
     <>
-      <h1>Play Game </h1>
+      {/*<h1>Play Game </h1> */}
 
       {/*{arr.map((item, index)=><p key={index}>{item}</p>)} ->learning */}
       {/* here we are rendering each element of the array one by one, the map function 
@@ -61,6 +61,7 @@ function PlayGame() {
     {/*below we are using short circuiting, if first input is true then it return second part */}  
       {state?.word && (
         <>
+          <h3>we will show the hints here</h3>
           <MaskedText text={state.word} guessedLetters={guessedLetters} />
 
           <div>
@@ -79,7 +80,7 @@ function PlayGame() {
 
       <Link to="/start" className="text-white bg-blue-700">
         {" "}
-        Start Game
+        Restart Game
       </Link>
       {/* Link is an replacement for the anchor tag */}
     </>

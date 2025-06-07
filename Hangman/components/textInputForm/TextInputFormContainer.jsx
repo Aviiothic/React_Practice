@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import TextInputForm from "../textInputForm/TextInputForm";
 import { useNavigate } from "react-router-dom";
 
@@ -94,7 +94,7 @@ function TextInputFormContainer(){
       }, []);//when we return another callback from callback of an effect then, 
              //the returned callback is called when the component is unmounted
     
-      return <p>👋 Temp Component Mounted</p>;
+      return <p>👋 Temp Component Mounted, just a check for mounting and unmounting</p>;
     }
     
     export default TextInputFormContainer;

@@ -7,7 +7,7 @@ function Home(){
 
     //browser provides us an inbuilt function to fetch data from external sources, it returns a promise
     async function fetchWords(){
-        const response = await fetch("https://3000-firebase-hangmangame-1748577380216.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev/words");
+        const response = await fetch("http://localhost:3000/words");
         const data = await response.json();
 
         const randomIndex=Math.floor(Math.random()*data.length);
